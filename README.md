@@ -3,7 +3,7 @@
 
 Download files with pycurl using a list of urls
 
-[**Download última versão!!**](https://github.com/raylan-oliveira/crawler-ANA/releases/latest)
+[**Download latest version!!**](https://github.com/raylan-oliveira/crawler-ANA/releases/latest)
 ## Demo:
 ![Demon](https://raw.githubusercontent.com/raylan-oliveira/dList/main/img/demo.gif)
 
