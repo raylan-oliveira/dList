@@ -1,4 +1,4 @@
-# Download List 
+# dList - download Using List URLs
 
 
 Download files with pycurl using a list of urls; [Windows, Linux, Mac]
