@@ -26,6 +26,13 @@ Multiprocessing, PyCurl
 	pip install pyinstaller
 	pyinstaller dList.py --onefile	
    ```
+### PyCurl Windows
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycurl
+   ```sh
+	python --version
+	cd pycurl_whl_windows
+	pip install pycurl-7.45.1-cp310-cp310-win_amd64.whl
+   ```
 ### Usage
    ```sh
 	usage: dlist [-h] -f FILE [-d DIRECTORY] [-p PATH] [-t THREAD]
