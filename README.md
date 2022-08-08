@@ -21,17 +21,18 @@ Multiprocessing, PyCurl
 	python dList.py -f files_urls.txt
    ```
 	
-### Compile
+### Compile - Linux & Mac
    ```sh
 	pip install pyinstaller
 	pyinstaller dList.py --onefile	
    ```
-### PyCurl Windows
-https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycurl
+### Compile - Windows | PyCurl Windows
+Other versions of PyCurl for Windows: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycurl
    ```sh
-	python --version
-	cd pycurl_whl_windows
-	pip install pycurl-7.45.1-cp310-cp310-win_amd64.whl
+	pip install pyinstaller
+	python --version	
+	cd pycurl_whl_windows_py_3.10
+	pip install pycurl-7.45.1-cp310-cp310-win_amd64.whl # Python 3.10
    ```
 ### Usage
    ```sh
