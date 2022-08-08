@@ -31,7 +31,7 @@ Other versions of PyCurl for Windows: https://www.lfd.uci.edu/~gohlke/pythonlibs
    ```sh
 	pip install pyinstaller
 	python --version	
-	cd pycurl_whl_windows_py_3.10
+	cd pycurl_whl_windows
 	pip install pycurl-7.45.1-cp310-cp310-win_amd64.whl # Python 3.10
    ```
 ### Usage
