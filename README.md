@@ -9,7 +9,7 @@ Multiprocessing, PyCurl
 
 [**Download latest version (Windows)**](https://github.com/raylan-oliveira/dList/releases/latest)
 ## Demo:
-![Demon](https://raw.githubusercontent.com/raylan-oliveira/dList/main/img/demo.gif)
+![Demon](https://raw.githubusercontent.com/raylan-oliveira/demos/main/demos/dList.gif)
 
 ### Dependencies
    ```sh
